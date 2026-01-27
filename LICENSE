@@ -1,0 +1,25 @@
+INTERNAL USE SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 LinuxISP (Pty) Ltd
+
+1. Preamble This Internal Use Software License Agreement ("Agreement") is a legal agreement between you ("Licensee") and LinuxISP (Pty) Ltd ("Licensor") regarding the use of the accompanying software module, source code, and documentation (collectively, the "Software").
+
+2. Grant of License Subject to the terms and conditions of this Agreement, Licensor hereby grants Licensee a non-exclusive, non-transferable, revocable right to use, run, and modify the Object Code and Source Code solely for Licensee’s internal purposes.
+
+3. Conditions of Use The rights granted in Section 2 are strictly conditional upon the following:
+
+    Google Account Requirement: Licensee may only use this Software in conjunction with a registered and active Google account.
+
+    Termination of Account: Should the Licensee's Google account be terminated, suspended, or closed for any reason, the license granted herein is automatically and immediately revoked. Upon such revocation, Licensee must cease all use of the Software.
+
+4. Restrictions Except as expressly indicated in this license, Licensee may not use, copy, modify, or distribute this Software or part thereof in any way. Specifically:
+
+    No Distribution: Licensee may not distribute, transmit, publish, sublicense, rent, lease, sell, or otherwise transfer the Object Code, Source Code, or any Derivative Works to any third party.
+
+    Internal Use Only: The Software is strictly for use within the Licensee's own website/environment and may not be repackaged for resale or external distribution.
+
+5. Intellectual Property All title, ownership rights, and intellectual property rights in and to the Software remain with LinuxISP (Pty) Ltd. This Agreement grants a license, not a transfer of title.
+
+6. Termination This Agreement is effective until terminated. It will terminate immediately without notice from the Licensor if the Licensee fails to comply with any provision of this Agreement, including the requirement to maintain an active Google account. Upon termination, the Licensee must destroy all copies of the Software.
+
+7. Disclaimer of Warranty THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

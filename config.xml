@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[analytics4]]></name>
+  <displayName><![CDATA[Google Analytics 4 Client-Side]]></displayName>
+  <version><![CDATA[1.0.1]]></version>
+  <description><![CDATA[Adds GA4 tracking with robust purchase detection.]]></description>
+  <author><![CDATA[Linuxweb]]></author>
+  <author_uri/>
+  <tab><![CDATA[analytics_stats]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>
