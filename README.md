@@ -5,7 +5,7 @@ Installation
 
     1. Upload the module to /modules/analytics4/
     2. Go to Modules → Modules & Services in your admin panel
-    3. Find "Google Analytics 4 Client-Side" and click Install
+    3. Find "Google Analytics 4" and click Install
 
 Configuration
 
