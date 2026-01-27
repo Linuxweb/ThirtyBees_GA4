@@ -24,14 +24,14 @@ class Analytics4 extends Module
     {
         $this->name = 'analytics4';
         $this->tab = 'analytics_stats';
-        $this->version = '1.0.1';
+        $this->version = '1.0';
         $this->author = 'Linuxweb';
         $this->need_instance = 0;
 
         parent::__construct();
 
-        $this->displayName = $this->l('Google Analytics 4 Client-Side');
-        $this->description = $this->l('Adds GA4 tracking with robust purchase detection.');
+        $this->displayName = $this->l('Google Analytics 4');
+        $this->description = $this->l('This module connects your ThirtyBees e-commerce store to Google Analytics 4 (GA4) so Google can track what happens on your website.');
     }
 
     public function install()
