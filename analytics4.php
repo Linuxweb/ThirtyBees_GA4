@@ -1,3 +1,4 @@
+<?php
 {* analytics4.php
  *
  * Copyright (c) 2026 LinuxISP (Pty) Ltd
@@ -13,7 +14,6 @@
  * @link       https://github.com/Linuxweb/ThirtyBees_GA4/
  *}
 
-<?php
 if (!defined('_TB_VERSION_')) {
     exit;
 }
