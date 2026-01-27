@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module>
   <name><![CDATA[analytics4]]></name>
-  <displayName><![CDATA[Google Analytics 4 Client-Side]]></displayName>
-  <version><![CDATA[1.0.1]]></version>
-  <description><![CDATA[Adds GA4 tracking with robust purchase detection.]]></description>
+  <displayName><![CDATA[Google Analytics 4]]></displayName>
+  <version><![CDATA[1.0]]></version>
+  <description><![CDATA[This module connects your ThirtyBees e-commerce store to Google Analytics 4 (GA4) so Google can track what happens on your website]]></description>
   <author><![CDATA[Linuxweb]]></author>
   <author_uri/>
   <tab><![CDATA[analytics_stats]]></tab>
