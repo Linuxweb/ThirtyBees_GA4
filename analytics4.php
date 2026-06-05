@@ -1,5 +1,5 @@
 <?php
-{* analytics4.php
+/* analytics4.php
  *
  * Copyright (c) 2026 LinuxISP (Pty) Ltd
  * You (being anyone who is not LinuxISP (Pty) Ltd may download and use this plugin / code in your own website in conjunction with a registered and active Google account. If your Google account is terminated for any reason, you may not use this plugin / code or part thereof.
@@ -12,7 +12,7 @@
  * @date       01/27/2026
  *
  * @link       https://github.com/Linuxweb/ThirtyBees_GA4/
- *}
+ */
 
 if (!defined('_TB_VERSION_')) {
     exit;
