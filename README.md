@@ -65,3 +65,7 @@ Author
 
 Ruben Venter - Linuxweb
 ruben@linuxweb.co.za
+
+
+# !Disclaimer!
+Even though we have tested the safety of this software, using this plugin will be at your own risk and Linuxweb will not be held responsible in a case of lost data or any other damage.
